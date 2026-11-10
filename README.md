@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/avatar.png" width="180" height="180" alt="Esteban Montoya Restrepo" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:064e3b&height=200&section=header&text=Esteban%20Montoya%20Restrepo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Desarrollador%20Full%20Stack%20Junior&descAlignY=55&descSize=18" alt="Esteban Montoya Restrepo" width="100%" />
 
 <a href="https://github.com/estebanrpodev">
