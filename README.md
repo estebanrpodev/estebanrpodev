@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="180" height="180" alt="Esteban Montoya Restrepo" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:064e3b&height=200&section=header&text=Esteban%20Montoya%20Restrepo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20en%20Sistemas%20%7C%20Desarrollador%20Full%20Stack%20Junior&descAlignY=55&descSize=18" alt="Esteban Montoya Restrepo" width="100%" />
+<img src="./assets/banner.svg" alt="Esteban Montoya Restrepo — Ingeniero en Sistemas y Desarrollador Full Stack Junior" width="100%" />
 
 <a href="https://github.com/estebanrpodev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%2B+Node.js;Python+%26+Data;Aprendizaje+constante" alt="Texto animado" />
